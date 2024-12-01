@@ -1,0 +1,12 @@
+langgraph
+langchain_core
+langchain_openai
+langchain_experimental
+langchain_pinecone
+psycopg2
+pandas
+plotly
+python-dotenv
+streamlit
+tabulate
+pinecone

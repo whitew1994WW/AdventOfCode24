@@ -1,0 +1,4 @@
+.env
+.conda
+images/
+__pycache__/
